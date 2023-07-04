@@ -1,0 +1,52 @@
+body{
+background-image: url(pexels-photo-3498984.jpeg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+/* This is heading */
+
+.heading{
+    color:blue;
+    font-weight: bold;
+    float:left;
+    text-align: justify;
+margin-top: 50px;
+font-size:xx-large;
+}
+.paragraph{
+    color: black;
+    font-size:x-large;
+    background-color: gray;
+}
+.img{
+   border: 10px solid black;
+   border-radius: 10px;
+}
+.div {
+    margin-left:500px;
+    margin-bottom: 400px;
+    padding:5px ;
+
+}
+.buy{
+    background-color: aqua;
+    border-radius: 10px;
+}
+.logo{
+    color:blue;
+    font-size: large;
+}
+ul {
+    list-style: none;
+}
+ul li {
+    display: inline;
+font-size:20px ;
+    font-weight: bold;
+padding-left: 30px; 
+padding-right:30px;
+  color:blue;
+ margin-left: 50px;
+ float:right;
+    
+}
